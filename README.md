@@ -1,6 +1,6 @@
 # PC的学习笔记
 
-## 最新更新日期：19.4.26
+## 最新更新日期：20.7.9
 
 ## 章节
 
@@ -8,5 +8,6 @@
 
 2.[浏览器缓存原理](https://github.com/pc19960531/Blog/issues/2)
 
-2.[typeof和instanceof的区别以及== 和 === 的比较](https://github.com/pc19960531/Blog/issues/3)
+3.[typeof和instanceof的区别以及== 和 === 的比较](https://github.com/pc19960531/Blog/issues/3)
 
+4.[最近面试遇到过的问题](https://github.com/pc19960531/Blog/issues/4)
